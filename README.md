@@ -8,17 +8,11 @@ The website is fully responsive, lightweight, and optimized for deployment on Cl
 FEATURES
 
 Fully responsive layout (desktop, tablet, mobile)
-
 Sticky header with active page highlighting
-
 Mobile-friendly hamburger navigation menu
-
 Clean nonprofit design and accessible structure
-
 Lightweight static pages for fast performance
-
 Centralized header and footer loaded dynamically
-
 Easy to expand with new pages or content
 
 
