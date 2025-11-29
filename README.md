@@ -21,19 +21,19 @@ FEATURES
 
 Project Structure
 
-/
-├── index.html
-├── support.html
-├── partner.html
-├── volunteer.html
-├── volunteer-signup.html
-├── sensory-van.html
-├── programs.html
-├── donate.html
-├── header.html
-├── footer.html
-└── assets/
-    └── style.css
+    /
+    ├── index.html
+    ├── support.html
+    ├── partner.html
+    ├── volunteer.html
+    ├── volunteer-signup.html
+    ├── sensory-van.html
+    ├── programs.html
+    ├── donate.html
+    ├── header.html
+    ├── footer.html
+    └── assets/
+        └── style.css
 
 header.html / footer.html
 Injected on every page using JavaScript for easy updates.
