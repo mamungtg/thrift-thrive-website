@@ -43,39 +43,38 @@ Central stylesheet controlling layout, responsiveness, color theme, and mobile n
 
 Deployment (Cloudflare Pages)
 
-This project is designed for seamless deployment to Cloudflare Pages.
+	This project is designed for seamless deployment to Cloudflare Pages.
 
-Build Settings
-Setting	Value
-Framework preset	None
-Build command	(leave empty)
-Build output directory	/
-Root directory	/
+	Build Settings
+	Setting	Value
+	Framework preset	None
+	Build command	(leave empty)
+	Build output directory	/
+	Root directory	/
 
-Once connected to GitHub, Cloudflare automatically redeploys with every commit.
+	Once connected to GitHub, Cloudflare automatically redeploys with every commit.
 
 
 DEPLOYMENT (Cloudflare Pages)
 
 Recommended build settings:
 
-Framework preset: None
-Build command: (leave empty)
-Build output directory: /
-Root directory: /
+	Framework preset: None
+	Build command: (leave empty)
+	Build output directory: /
+	Root directory: /
 
 Cloudflare will automatically redeploy when new commits are pushed to GitHub.
-
 
 MAIL ROUTING
 
 
 CONTRIBUTING
 
-The project is easy to extend and maintain.
-You may clone, fork, or build on top of it as needed.
+	The project is easy to extend and maintain.
+	You may clone, fork, or build on top of it as needed.
 
 LICENSE
 
-This project is created for the Thrift & Thrive Foundation.
-Reproduction or adaptation should be done with permission.
+	This project is created for the Thrift & Thrive Foundation.
+	Reproduction or adaptation should be done with permission.
