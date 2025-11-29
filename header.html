@@ -1,0 +1,27 @@
+<header class="site-header">
+    <nav class="nav-container">
+
+        <!-- Logo / Home -->
+        <a href="index.html" class="logo">Thrift & Thrive</a>
+
+        <!-- Hamburger (mobile) -->
+        <div class="hamburger" onclick="toggleMenu()">☰</div>
+
+        <!-- Navigation Menu -->
+        <div id="nav-menu">
+            <a href="index.html">Home</a>
+            <a href="support.html">Get Support</a>
+            <a href="partner.html">Partner</a>
+            <a href="volunteer.html">Volunteer</a>
+            <a href="sensory-van.html">Sensory Van</a>
+            <a href="programs.html">Programs</a>
+            <a href="donate.html" class="donate-btn">Donate</a>
+        </div>
+    </nav>
+</header>
+
+<script>
+function toggleMenu() {
+    document.getElementById("nav-menu").classList.toggle("show-menu");
+}
+</script>
